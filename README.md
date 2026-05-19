@@ -5,7 +5,7 @@ Repositori ini merupakan implementasi **Convolutional Neural Network (CNN)** men
 > **Praktikum Kecerdasan Buatan — Pertemuan 8**  
 > Nama: Latifanika Nurafwi  
 > NIM : H1D024099 
-> Repositori: `https://github.com/LATIFANIKA-NURAFWI1/H1D024099-PraktikumKB-Pertemuan8.git`  
+> Repositori: `https://github.com/LATIFANIKA-NURAFWI1/H1D024099-PraktikumKB-Pertemuan8.git` 
 ---
 
 ## Deskripsi
